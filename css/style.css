@@ -1719,6 +1719,23 @@ header.header-light .logo-2 {
     color: rgba(255, 255, 255, .2) !important;
 }
 
+.learn-more {
+    bottom: -2rem;
+    left: 50%;
+    margin-left: -20px;
+    position: absolute;
+    bottom: 30px;
+    margin-left: -52px;
+    border-radius: 15px;
+    border: 2px solid rgba(255, 255, 255, .5);
+    -webkit-animation: intro 1s;
+    animation: intro 1s;
+    border: none;
+    font-size: 24px;
+    color: #fff;
+    width: 500px;
+}
+
 .arrow {
     bottom: -2rem;
     left: 50%;
@@ -9538,6 +9555,7 @@ blockquote.very-big span {
 a,
 img {
     outline: 0 !important;
+    height: 4em;
 }
 
 .z1 {
