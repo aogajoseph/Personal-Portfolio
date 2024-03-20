@@ -42,10 +42,10 @@ particlesJS('particles-js',
             },
             "opacity": {
                 "value": 0.5,
-                "random": false,
+                "random": true,
                 "anim": {
                     "enable": false,
-                    "speed": 1,
+                    "speed": 9,
                     "opacity_min": 0.1,
                     "sync": false
                 }

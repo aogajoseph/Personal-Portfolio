@@ -149,7 +149,7 @@
     /* pf active */
 
     function pf_active() {
-        if (window.location.hash == "#section-portfolio") {
+        if (window.location.hash == "#section-projects") {
             setTimeout(function() {
                 $('.social-icons-fixed,.page-deco').addClass('pf-click');
             }, 900);
