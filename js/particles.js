@@ -20,10 +20,10 @@ var pJS = function(tag_id, params) {
         },
         particles: {
             number: {
-                value: 400,
+                value: 120,
                 density: {
-                    enable: true,
-                    value_area: 800
+                    enable: false,
+                    value_area: 100
                 }
             },
             color: {
@@ -33,7 +33,7 @@ var pJS = function(tag_id, params) {
                 type: 'circle',
                 stroke: {
                     width: 0,
-                    color: '#ff0000'
+                    color: '#33ff00'
                 },
                 polygon: {
                     nb_sides: 5
