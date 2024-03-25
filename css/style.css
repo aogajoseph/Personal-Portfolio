@@ -906,7 +906,7 @@ header.header-mobile.header-light #menu-btn {
 
 section {
     position: relative;
-    padding: 100px 0 100px 0;
+    padding: 0.05px 0 0.05px 0;
     overflow: hidden;
 }
 
@@ -1719,13 +1719,13 @@ header.header-light .logo-2 {
     color: rgba(255, 255, 255, .2) !important;
 }
 
-.learn-more {
+.about-me {
     bottom: -2rem;
     left: 50%;
     margin-left: -20px;
     position: absolute;
     bottom: 30px;
-    margin-left: -52px;
+    margin-left: -42px;
     border-radius: 15px;
     border: 2px solid rgba(255, 255, 255, .5);
     -webkit-animation: intro 1s;
