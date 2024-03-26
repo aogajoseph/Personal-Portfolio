@@ -236,7 +236,7 @@ header div#logo {
 #top-bar #logo {
     color: #44566c;
     font-weight: 600;
-    font-size: 24px;
+    font-size: 40px;
     text-decoration: none;
 }
 
@@ -1725,7 +1725,7 @@ header.header-light .logo-2 {
     margin-left: -20px;
     position: absolute;
     bottom: 30px;
-    margin-left: -42px;
+    margin-left: -36px;
     border-radius: 15px;
     border: 2px solid rgba(255, 255, 255, .5);
     -webkit-animation: intro 1s;
