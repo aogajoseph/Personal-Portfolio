@@ -691,7 +691,7 @@ header.de_header_2.smaller .info {
 
 #menu-btn {
     display: none;
-    margin-top: -3px;
+    margin-top: 30px;
     width: 36px;
     height: 36px;
     padding: 6px;
@@ -6254,7 +6254,7 @@ footer .widget_list li a {
 
 .in-box {
     background: rgba(255, 255, 255, .03);
-    padding: 30px;
+    padding: 30px 30px 30px 30px; 
 }
 
 .view-scroll {
