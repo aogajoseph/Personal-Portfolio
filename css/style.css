@@ -2510,6 +2510,22 @@ h6,
     font-weight: 600;
 }
 
+.submission-title {
+    color: #fff;
+    font-family: "neuzeit-grotesk";
+    margin: 0;
+    padding: 0;
+    font-weight: 300;
+    font-size: 5rem;
+}
+
+.submission-btn {
+    font-size: 56px;
+    margin: 0;
+    line-height: 65px;
+    letter-spacing: 5px;
+}
+
 h1 {
     font-size: 60px;
     letter-spacing: -1px;
@@ -7600,8 +7616,8 @@ a.btn-download:hover i {
 }
 
 .de_dark a.btn-download {
-    border: solid 1px rgba(0, 0, 0, .1);
-    color: #44566c;
+    border: solid 1px #33ff00;
+    color: #33ff00;
     font-weight: bold;
     padding: 10px 20px 10px 20px;
     position: relative;
