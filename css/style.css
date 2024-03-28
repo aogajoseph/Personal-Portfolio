@@ -1075,7 +1075,12 @@ header.header-light .logo-2 {
 }
 
 .bloglist .post-text h3 a {
-    color: #ffffff;
+    color: #33ff00;
+}
+
+.bloglist .post-text h3 a:hover {
+    color: #7d817c;
+    text-decoration: underline;
 }
 
 .bloglist .date-box .d {
