@@ -1,20 +1,13 @@
-/* --------------------------------------------------
- * © Copyright 2022 - Jonna by Designesia
- * --------------------------------------------------*/
 (function($) {
 
-    /* --------------------------------------------------
-     * predefined vars
-     * --------------------------------------------------*/
+    /* predefined vars */
     var mobile_menu_show = 0;
     var v_count = '0';
     var mb;
     var instances = [];
     var $window = $(window);
 
-    /* --------------------------------------------------
-     * header
-     * --------------------------------------------------*/
+    /* header */
 
     function mark_menu() {
         jQuery('#mainmenu li a').each(function() {
@@ -29,9 +22,7 @@
             }
         });
     }
-    /* --------------------------------------------------
-     * plugin | magnificPopup
-     * --------------------------------------------------*/
+    /* plugin | magnificPopup */
     function load_magnificPopup() {
         jQuery('.simple-ajax-popup-align-top').magnificPopup({
             type: 'ajax',
@@ -166,9 +157,7 @@
         }
     }
 
-    /* --------------------------------------------------
-     * plugin | enquire.js
-     * --------------------------------------------------*/
+    /* plugin | enquire.js */
     function init_resize() {
         enquire.register("screen and (min-width: 992px)", {
             match: function() {
@@ -222,9 +211,7 @@
             jQuery('.owl-slide-wrapper').find("img").css("height", "auto");
         }
     };
-    /* --------------------------------------------------
-     * plugin | owl carousel
-     * --------------------------------------------------*/
+    /* plugin | owl carousel */
     function load_owl() {
         jQuery("#gallery-carousel").owlCarousel({
             items: 4,
