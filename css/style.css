@@ -9062,4 +9062,9 @@ img {
         font-family: "neuzeit-grotesk";
         font-size: 12px;
     }
+    a, img {
+    outline: 0 !important;
+    height: 4em;
+    margin-left: -20px;
+    }
 }
