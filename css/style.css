@@ -9058,4 +9058,8 @@ img {
     .footer-contact-info {
         font-size: 11.73px;
     }
+    a.btn-download {
+        font-family: "neuzeit-grotesk";
+        font-size: 12px;
+    }
 }
