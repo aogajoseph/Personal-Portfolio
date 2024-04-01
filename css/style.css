@@ -468,7 +468,7 @@ header.de_header_2.smaller .info {
 /* navigation */
 
 #mainmenu {
-    display: inline-block;
+    display: block;
     font-family: "neuzeit-grotesk";
     font-size: 11px;
     font-weight: bold;
@@ -691,7 +691,7 @@ header.de_header_2.smaller .info {
 
 #menu-btn {
     display: none;
-    margin-top: 15px;
+    margin-top: 20px;
     width: 36px;
     height: 36px;
     padding: 6px;
@@ -9057,14 +9057,5 @@ img {
     }
     .footer-contact-info {
         font-size: 11.73px;
-    }
-    a.btn-download {
-        font-family: "neuzeit-grotesk";
-        font-size: 12px;
-    }
-    a, img {
-    outline: 0 !important;
-    height: 4em;
-    margin-left: -20px;
     }
 }
