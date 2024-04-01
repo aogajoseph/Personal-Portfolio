@@ -9059,4 +9059,8 @@ img {
     a.btn-download {
         display: none;
     }
+    a, img {
+    outline: 0 !important;
+    height: 3em;
+}
 }
