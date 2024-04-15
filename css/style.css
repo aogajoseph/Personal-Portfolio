@@ -5046,9 +5046,10 @@ table thead {
 p.lead {
     font-size: 17px;
     line-height: 1.6em;
-    margin: 10px 0;
+    margin: auto;
+    margin-top: 15px;
     font-weight: 400;
-    width: 550px;
+    width: 100%;
 }
 
 .text-light p.lead {
