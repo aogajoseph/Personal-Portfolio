@@ -778,7 +778,7 @@ header.header-mobile.header-light #menu-btn {
 }
 
 .content-wrap {
-    padding: 150px 0 177px 60px;
+    padding: 150px 0 0 60px;
 }
 
 /* section */
@@ -2553,7 +2553,7 @@ h1.big,
     font-size: 56px;
     margin: 0;
     line-height: 65px;
-    letter-spacing: -2px;
+    letter-spacing: 1px;
 }
 
 h1.very-big {
@@ -8894,7 +8894,7 @@ img {
         position: absolute;
     }
     .h1_big {
-        font-size: 7vw;
+        font-size: 5vw;
         line-height: 7vw;
     }
     .h1_ultra {
@@ -9073,7 +9073,7 @@ img {
         height: 3em;
     }
     p.lead {
-        font-size: 17px;
+        font-size: 14px;
         line-height: 1.6em;
         margin: 10px 0;
         font-weight: 400;
