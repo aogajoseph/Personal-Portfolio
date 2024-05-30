@@ -5422,20 +5422,6 @@ a:hover,
     background: linear-gradient(to right, rgb(0, 103, 110), rgb(114, 0, 114));
 }
 
-.timeless-heading h3 {
-    margin-left: 50%;
-}
-
-.timeless-details-link {
-    margin-left: -3%;
-}
-
-.timeless-details-link p {
-    margin: 0 0 10px;
-    width: 100%;
-    font-size: medium;
-}
-
 .overlay-v:hover {
     background: rgba(30, 30, 30, .5);
 }
