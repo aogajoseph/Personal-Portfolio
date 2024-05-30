@@ -5410,7 +5410,11 @@ a:hover,
     font-weight: 700;
     text-transform: uppercase;
     height: 0;
-    color: rgba(255, 255, 255, 0);
+    color: rgba(235, 14, 14, 0);
+}
+
+.timeless {
+    background: linear-gradient(to right, rgb(0, 238, 255), rgb(255, 2, 255));
 }
 
 .overlay-v:hover {
